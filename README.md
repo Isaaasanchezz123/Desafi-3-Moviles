@@ -4,8 +4,8 @@ Aplicación desarrollada en Android Studio con Kotlin como parte del Desafío 3 
 
 ## 🔗 Enlaces del proyecto
 
-- 📱 **APK y código fuente**: [Disponible en Google Drive](https://drive.google.com/drive/folders/1pEjgLJvGZVdE7XJv9Yx3KzQhXzYzQk9A?usp=sharing)
-- 🎥 **Video de defensa**: [Ver presentación en Drive](https://drive.google.com/file/d/1xEjgLJvGZVdE7XJv9Yx3KzYhXzYzQk9B/view?usp=sharing)
+- 📱 **APK y código fuente**: [Disponible en Google Drive](https://drive.google.com/drive/folders/1u8TDbdfW_V2tkpMyi2FoWcVdYaDeqAJl?usp=sharing)
+- 🎥 **Video de defensa**: [Ver presentación en Drive](https://drive.google.com/drive/folders/1u8TDbdfW_V2tkpMyi2FoWcVdYaDeqAJl?usp=sharing)
 
 > ⚠️ **Nota importante**: El proyecto fue subido a Google Drive debido a que GitHub presentaba restricciones para subir el APK y ciertos archivos del entorno Android Studio (por tamaño). Se optó por Drive para garantizar acceso completo al código, recursos y video de defensa sin pérdida de funcionalidad.
 
