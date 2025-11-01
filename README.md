@@ -52,36 +52,9 @@ CRUD completo consumiendo API externa desde [MockAPI.io](https://mockapi.io/):
 | API               | MockAPI.io                     |
 | UI                | XML + Material Design          |
 | Validaciones      | Regex + lógica Kotlin          |
-| Almacenamiento    | Local (SharedPreferences)      |
 
 ---
 
-## 📁 Organización del proyecto
 
-- `MainActivity.kt` — Pantalla principal con navegación
-- `LoginActivity.kt` — Login y validación
-- `RegisterActivity.kt` — Registro de usuarios
-- `ResourceAdapter.kt` — Adaptador para mostrar recursos
-- `ApiService.kt` — Consumo de API externa
-- `strings.xml` — Todos los textos centralizados
 
-```xml
-<resources>
-  <string name="app_name">AprendeApp</string>
-  <string name="welcome_message">¡Bienvenido a AprendeApp!</string>
-  <!-- Otros textos aquí -->
-</resources>
-```
 
----
-
-## 📦 Entregables
-
-- APK funcional
-- Código fuente completo
-- Video de defensa (máx. 15 minutos)
-- Documentación técnica (README.md)
-
----
-
-Si querés que lo convierta en PDF o lo formatee para GitHub directamente, solo decímelo. También puedo ayudarte a subirlo a GitHub si querés blindar el proceso. ¿Querés que te dé los comandos para subirlo desde CMD con autenticación y manejo de archivos grandes?
