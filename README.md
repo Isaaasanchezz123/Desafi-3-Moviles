@@ -1,7 +1,3 @@
-Claro, David. Aquí tienes un README completo, literal y listo para subir al repositorio o compartir como parte del entregable académico. Incluye la explicación sobre Drive, los enlaces, y todo lo que pediste:
-
----
-
 # 📚 AprendeApp — Desafío 3: Lista de Recursos de Aprendizaje
 
 Aplicación desarrollada en Android Studio con Kotlin como parte del Desafío 3 del curso de Ingeniería en Computación. AprendeApp permite a los alumnos acceder mediante login a una lista dinámica de recursos educativos relacionados con la ingeniería de sistemas: libros, videos, tutoriales y más.
